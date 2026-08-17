@@ -1,5 +1,7 @@
 # nexdex.space — sources
 
+
+![license](https://img.shields.io/github/license/devsavsis/UniversalTool)
 это открытая версия исходников (для гита) — читаемый python/flask код без
 скомпилированных бинарей. если нужен готовый инструмент — смотри релиз
 `nexdex.space-setup.exe`, который разворачивает всё сам (portable python +
